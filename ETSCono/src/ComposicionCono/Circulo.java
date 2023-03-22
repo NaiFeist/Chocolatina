@@ -1,5 +1,11 @@
 package ComposicionCono;
 
+/**
+ * Clase para calcular radio, area de un circulo
+ * @author naiar
+ *
+ */
+
 public class Circulo {
 		 private float x, y;
 		 private float radio;
